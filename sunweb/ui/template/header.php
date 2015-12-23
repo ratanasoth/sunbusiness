@@ -107,7 +107,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 					<li><a href="<?php echo base_url(); ?>">Home</a></li>
 					<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Services <span class="caret"></span></a>
 						<ul class="dropdown-menu sub-menu">
-							<li class="dropdown-submenu"><a href="#">Trading Investment <span class="pull-right">&raquo;</span></a>
+							<li class="dropdown-submenu"><a href="#"><span class="pull-right">&raquo;</span>Trading Investment</a>
 								<ul class="dropdown-menu submenu" style="top:1%">
 									<li><a href="<?php echo base_url('page/view/1'); ?>">Tourism Services</a></li>
 									<li><a href="<?php echo base_url('page/view/2'); ?>">Biz J&V Investment</a></li>
@@ -117,7 +117,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 									<li><a href="<?php echo base_url('page/view/6'); ?>">Products Trading</a></li>
 								</ul>
 							</li>
-							<li class="dropdown-submenu"><a href="#">International Financing <span class="pull-right">&raquo;</span></a>
+							<li class="dropdown-submenu"><a href="#"><span class="pull-right">&raquo;</span>International Financing</a>
 								<ul class="dropdown-menu submenu" style="top:20%">
 									<li><a href="<?php echo base_url('page/view/7'); ?>">Project Funding</a></li>
 									<li><a href="<?php echo base_url('page/view/8'); ?>">Investment Banking Unit</a></li>
@@ -127,7 +127,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 									
 								</ul>
 							</li>
-							<li class="dropdown-submenu"><a href="#">Education & Vocational Training Centre <span class="pull-right">&raquo;</span></a>
+							<li class="dropdown-submenu"><a href="#"><span class="pull-right">&raquo;</span>Education & Vocational Training Centre</a>
 								<ul class="dropdown-menu submenu" style="top:39%">
 									<li><a href="<?php echo base_url('page/view/12'); ?>">Biz Plan Trading</a></li>
 									<li><a href="<?php echo base_url('page/view/13'); ?>">Agricultural Course</a></li>
@@ -138,7 +138,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 									
 								</ul>
 							</li>
-							<li class="dropdown-submenu"><a href="#">Agriculture <span class="pull-right">&raquo;</span></a>
+							<li class="dropdown-submenu"><a href="#"><span class="pull-right">&raquo;</span>Agriculture</a>
 								<ul class="dropdown-menu submenu" style="top:58%">
 									<li><a href="<?php echo base_url('page/view/18'); ?>">Fertilizer & Soil</a></li>
 									<li><a href="<?php echo base_url('page/view/19'); ?>">Paddy Rice</a></li>
@@ -147,7 +147,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 									
 								</ul>
 							</li>
-							<li class="dropdown-submenu"><a href="#" style="border-bottom:none">Donut Production <span class="pull-right">&raquo;</span></a>
+							<li class="dropdown-submenu"><a href="#" style="border-bottom:none"><span class="pull-right">&raquo;</span>Donut Production</a>
 								<ul class="dropdown-menu submenu" style="top:77%">
 									<li><a href="<?php echo base_url('page/view/22'); ?>">Production & Management</a></li>
 									<li><a href="<?php echo base_url('page/view/23'); ?>">Cashier</a></li>
